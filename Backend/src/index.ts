@@ -1,5 +1,6 @@
 import express from "express";
 import cors from "cors";
+import bodyParser from "body-parser";
 import caseRoutes from "./interface/routes/CaseRoutes";
 import setupSwagger from "./utils/swagger";
 import dotenv from "dotenv";

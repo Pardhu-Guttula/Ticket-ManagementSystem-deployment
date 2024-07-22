@@ -67,7 +67,7 @@ function ActiveCard() {
                 >
                   <div>
                     <h3>
-                      <span className="font-bold">Ticket ID:</span>{" "}
+                      <span className="font-bold"> ID:</span>{" "}
                       <span>{card.id}</span>
                     </h3>
                     <h2>
